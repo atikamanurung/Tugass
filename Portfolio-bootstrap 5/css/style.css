@@ -1,0 +1,42 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #86b1f7;
+}
+.h1 {
+  text-decoration-color: black;
+}
+.Home {
+  text-align: center;
+  padding-top: 2rem;
+  background-color: cadetblue;
+  color: rgb(255, 255, 255);
+  padding-bottom: 1rem;
+}
+
+.About {
+  padding-top: 2rem;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  padding-bottom: 1rem;
+}
+
+.Galery {
+  padding-top: 2rem;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  padding-bottom: 1rem;
+}
+
+.contact {
+  padding-top: 2rem;
+  background-color: #40a6fa;
+  color: rgb(255, 255, 255);
+  padding-bottom: 1rem;
+}
+
+.footer {
+  padding-top: 2rem;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  padding-bottom: 1rem;
+}
